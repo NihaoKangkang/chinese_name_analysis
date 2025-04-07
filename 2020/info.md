@@ -14,4 +14,3 @@ This document provides data released by the State Council of the PRC in 2021. [R
 | [2020_borned_surname_word_top50.txt](./2020_borned_surname_word_top50.txt) | 50             | The 50 most common words among newborns in 2020|
 | [2020_borned_male_surname_top10.txt](./2020_borned_male_surname_top10.txt) | 10             | Top 10 surnames among male newborns in 2020    |
 | [2020_borned_female_surname_top10.txt](./2020_borned_female_surname_top10.txt) | 10             | Top 10 surnames among female newborns in 2020  |
-|[family_name_with_two_chinese_characters_top14.txt](./family_name_with_two_chinese_characters_top14.txt)|14|Most common two characters family name|
