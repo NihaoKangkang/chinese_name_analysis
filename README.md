@@ -13,3 +13,7 @@ These document provides data released by [the Ministry of Public Security 中华
 | [family_name_with_two_chinese_characters_top14.txt](./family_name_with_two_chinese_characters_top14.txt) | 14              | Top 14 family names with two characters         |
 | [surname_with_single_character_top10.txt](./surname_with_single_character_top10.txt) | 10              | Top 10 surnames with a single character         |
 | [surname_with_two_characters_top10.txt](./surname_with_two_characters_top10.txt) | 10              | Top 10 surnames with two characters             |
+
+## License  
+
+This project is distributed under the terms of the [MIT License](./LICENSE).
